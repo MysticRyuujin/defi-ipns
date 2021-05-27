@@ -12,6 +12,7 @@ IPFS/IPNS Pin Address       Description
 /ipns/elasticdao.org        ElasticDAO
 /ipns/gnosis-auction.eth    gnosis-auction.eth
 /ipns/powerindex.io         PowerIndex
+/ipns/sourcify.eth          Sourcify
 /ipns/tornado.cash          Tornado Cash
 /ipns/zkeducation.eth       Zero Knowledge Education
 ```
@@ -20,5 +21,5 @@ Raw IPNS Hash Based:
 IPFS/IPNS Pin Address                                                    Description
 ```
 ```
-/ipns/k51qzi5uqu5dll0ocge71eudqnrgnogmbr37gsgl12uubsinphjoknl6bbi41p     Decentralized Verified Contract Repository
+/ipns/k51qzi5uqu5dll0ocge71eudqnrgnogmbr37gsgl12uubsinphjoknl6bbi41p     repo.sourcify.dev
 ```
