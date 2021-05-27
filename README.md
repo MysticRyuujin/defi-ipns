@@ -3,6 +3,9 @@ Collection of IPFS/IPNS sites related to DeFi
 
 ## Sites
 ```
+IPFS/IPNS Pin Address       Description
+```
+```
 /ipns/app.ens.eth           ENS App
 /ipns/app.uniswap.org       Uniswap App
 /ipns/elasticdao.org        ElasticDAO
