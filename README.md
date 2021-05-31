@@ -12,6 +12,7 @@ IPFS/IPNS Pin Address       Description
 /ipns/elasticdao.org        ElasticDAO
 /ipns/gnosis-auction.eth    gnosis-auction.eth
 /ipns/powerindex.io         PowerIndex
+/ipns/rekt.eth              Rekt
 /ipns/sourcify.eth          Sourcify
 /ipns/tornado.cash          Tornado Cash
 /ipns/zkeducation.eth       Zero Knowledge Education
