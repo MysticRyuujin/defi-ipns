@@ -2,7 +2,7 @@
 Collection of IPFS/IPNS sites related to DeFi
 
 ## Sites
-DNS Based:
+### DNS Based
 ```
 IPFS/IPNS Pin Address       Description
 ```
@@ -17,10 +17,11 @@ IPFS/IPNS Pin Address       Description
 /ipns/tornado.cash          Tornado Cash
 /ipns/zkeducation.eth       Zero Knowledge Education
 ```
-Raw IPNS Hash Based:
+### Raw IPFS/IPNS Hashes
 ```
-IPFS/IPNS Pin Address                                                    Description
+IPFS/IPNS Pin Address                                                   Description
 ```
 ```
-/ipns/k51qzi5uqu5dll0ocge71eudqnrgnogmbr37gsgl12uubsinphjoknl6bbi41p     repo.sourcify.dev
+/ipns/k51qzi5uqu5dll0ocge71eudqnrgnogmbr37gsgl12uubsinphjoknl6bbi41p    repo.sourcify.dev
+/ipfs/QmdauFpNcaqD4cJ3gKmMwikrUa5THUkV2t1mFUifUhdWir                    cryptopunks (punks.png)
 ```
