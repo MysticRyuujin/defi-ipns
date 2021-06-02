@@ -9,3 +9,5 @@ FINAL PROOF HASH                      | cc354b3fcacee8844dcc9861004da081f71df956
 ```
 
 `/ipfs/Qme57kZ2VuVzcj5sC3tVHFgyyEgBTmAnyTK45YVNxKf6hi`
+
+There are 10,000 individual IPFS hashes in the above file.
