@@ -1,6 +1,11 @@
 # defi-ipns
 Collection of IPFS/IPNS sites related to DeFi
 
+## `ipfspin.sh`
+A simple bash script that takes hashes as inputs and pins them via the IPFS API to an array of servers
+
+`./ipfspin.sh /ipns/app.uniswap.org QmdauFpNcaqD4cJ3gKmMwikrUa5THUkV2t1mFUifUhdWir`
+
 ## Sites
 ### DNS Based
 ```
