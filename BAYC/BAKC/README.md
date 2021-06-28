@@ -1,0 +1,19 @@
+# Bored Ape Kennel Club
+
+https://boredapeyachtclub.com/#/kennel-club
+
+There's no "provenance" page / file yet, but the hashes can be obtained here:
+
+`ipfs://bafybeie76n4eyyibvtzf45tt7xbnyd3jziwtdrgzr3rhcf57q4376yxgru`
+
+This will download a folder with files named 0 - 9999 inside. Each file contains the image hash of that index
+
+```
+$ ipfs get bafybeie76n4eyyibvtzf45tt7xbnyd3jziwtdrgzr3rhcf57q4376yxgru
+
+$ cat bafybeie76n4eyyibvtzf45tt7xbnyd3jziwtdrgzr3rhcf57q4376yxgru\0 | jq '.image'
+ipfs://QmQwDeBdCMgvLQLgT3KD2W8eF5ms7srBZzoTmUnF8HaeUC
+```
+
+You can pin all the hashes by getting the hash from the image key
+`cat bafybeie76n4eyyibvtzf45tt7xbnyd3jziwtdrgzr3rhcf57q4376yxgru\* | jq '.image'`
