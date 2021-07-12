@@ -22,6 +22,7 @@ IPFS/IPNS Pin Address       Description
 /ipns/app.uniswap.org       Uniswap App
 /ipns/elasticdao.org        ElasticDAO
 /ipns/gnosis-auction.eth    gnosis-auction.eth
+/ipns/olympusdao.eth        Olympus DAO
 /ipns/powerindex.io         PowerIndex
 /ipns/rekt.eth              Rekt
 /ipns/sourcify.eth          Sourcify
