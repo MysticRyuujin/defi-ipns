@@ -22,3 +22,9 @@ $ cat Qme57kZ2VuVzcj5sC3tVHFgyyEgBTmAnyTK45YVNxKf6hi | jq '.collection[].image'
 "https://ipfs.io/ipfs/QmQsxRXfVxxC5k9Uo8U51QcBtiA6TNmHAenbPMar7vFZrt"
 ...
 ```
+
+## HIGH RESOLUTION IMAGES
+
+`QmQ6VgRFiVTdKbiebxGvhW3Wa3Lkhpe6SkWBPjGnPkTttS`
+
+Images are `ipfs://QmQ6VgRFiVTdKbiebxGvhW3Wa3Lkhpe6SkWBPjGnPkTttS/<index>.png`
