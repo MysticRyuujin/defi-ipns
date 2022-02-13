@@ -10,7 +10,7 @@ Images are:
 
 `ipfs://QmVpPazxXFwJFLdKKWYg4fXoURWGn5YgRtWWLBiH6xWxA4/<index>.png`
 
-pin hashes:
+## pin hashes:
 ```
 QmNTuibZaWKjsiWGeLwPi3K5osW7Wjo9Pmy8FkDzCqpLKE
 QmVpPazxXFwJFLdKKWYg4fXoURWGn5YgRtWWLBiH6xWxA4

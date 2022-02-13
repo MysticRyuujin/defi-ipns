@@ -16,4 +16,4 @@ ipfs://QmQwDeBdCMgvLQLgT3KD2W8eF5ms7srBZzoTmUnF8HaeUC
 ```
 
 You can pin all the hashes by getting the hash from the image key
-`cat QmZ72roeESQ7wvTRYG1H2u1Smq9R6GKKdcCHVQxhf1EDxY\* | jq '.image'`
+`cat QmZ72roeESQ7wvTRYG1H2u1Smq9R6GKKdcCHVQxhf1EDxY/* | jq '.image'`

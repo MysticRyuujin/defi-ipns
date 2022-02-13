@@ -11,3 +11,9 @@ https://bots.moonshotcollective.space/
 `QmShqhZzwkoEM1wcrWjG7HTvPUgvBaknRqaFhBUNMvis1T`
 
 `./nfts/<name>/png`
+
+## pin hashes:
+```
+QmdRmZ1UPSALNVuXY2mYPb3T5exn9in1AL3tsema4rY2QF
+QmShqhZzwkoEM1wcrWjG7HTvPUgvBaknRqaFhBUNMvis1T
+```

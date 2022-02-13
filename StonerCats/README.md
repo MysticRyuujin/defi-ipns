@@ -19,3 +19,8 @@ Hash is:
 `bafybeiekcju2fhktbb6bckdhw2pue3h2s4soe3g33mr2cchk2e7isda5pm`
 
 Directory layout is basically `./json/<index>/(image|index).(jpg|json)`
+
+## pin hashes:
+```
+bafybeiekcju2fhktbb6bckdhw2pue3h2s4soe3g33mr2cchk2e7isda5pm
+```
