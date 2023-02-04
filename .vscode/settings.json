@@ -1,4 +1,4 @@
-{
+In osusushue:main{
     "yaml.customTags": [
         "!And",
         "!And sequence",
